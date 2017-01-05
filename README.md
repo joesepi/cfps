@@ -1,2 +1,3 @@
 # cfps
-Proposals for CFPs
+
+Proposals for talks, workshops and other things.

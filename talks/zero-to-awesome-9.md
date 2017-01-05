@@ -1,6 +1,6 @@
 # Title
 
-From Zero to Awesome: API-driven Apps in 9 Easy Steps
+Zero to Awesome: API-driven Apps in a Few Easy Steps
 
 # Abstract
 
