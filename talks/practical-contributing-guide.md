@@ -1,0 +1,4 @@
+# A practical guide to contributing: Node.js and other OpenJS projects
+
+Based on conversations and interviews with a variety of collaborators and maintainers from a number of open-source projects, we'll explore the ways in which you can become a valuable contributor to a project and its community. If you're new to open-source, we'll touch on how to get started, best practices, where to look for help and how to identify good communities. If you are already involved, we'll discuss how to make your environment more welcoming and how you can help new folks be successful. We'll focus on a number of OpenJS projects including Node.js and its many teams and working groups (Releases, Package Maintenance, Security, Modules, etc.), but the takeaways can apply to any open-source project. We'll even spend a moment on open-governance and how foundations work. It'll be fun!
+
