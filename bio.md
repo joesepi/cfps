@@ -1,8 +1,8 @@
 Name: Joe Sepi  
-Title: Program Director of Open Technologies  
-Company: IBM  
+Title: Engineering Manager, Workers Runtime team  
+Company: Cloudflare  
 
-Joe Sepi is passionate about advancing the web forward through open source technologies and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears as well as a few start-ups. In 2017, he joined IBM where he works on and advocates for open source technologies. He is currently a Program Director for the Open Technologies team within IBM Research and spends his days working on and around open source AI. At night, he plays in a couple rock bands. 🤘
+Joe Sepi is passionate about advancing the web forward through open source technologies and open communities. He has held engineering leadership positions at The New York Times, Adobe, Credit Suisse, Sears as well as several start-ups. From 2016-2025, Joe worked at IBM and was a leader on the Open Technologies team, working on open source and open governance in cloud and web related technologies. The last two years in that role, his focus shifted to open models and Agentic AI technologies in the open source space. In 2026, he joined the team at Cloudflare to help run their Workers platform, leading the Runtimes team and continuing his commitment to open source and the community. That’s his day job. At night, he plays in a couple punk rock bands. 🤘
   
 Site: https://joesepi.com  
 Bluesky: https://bsky.app/profile/joesepi.com  
